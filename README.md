@@ -13,6 +13,7 @@ pip install -r requirements.txt
 python app.py
 
 
+
 **🐍 Using Python (venv)**
 
 # 1. Create a virtual environment
@@ -22,7 +23,7 @@ python -m venv venv
 venv\Scripts\activate
 
 #    On macOS/Linux, use:
-# source venv/bin/activate
+source venv/bin/activate
 
 # 3. Install required packages
 pip install -r requirements.txt
